@@ -1,0 +1,12 @@
+﻿torch>=2.2.0
+transformers>=4.40.0
+accelerate
+peft
+bitsandbytes
+gradio>=4.0
+datasets
+pillow
+opencv-python
+pyscenedetect
+openai
+tqdm
